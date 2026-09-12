@@ -4,7 +4,7 @@ This public repository contains only the official bilingual marketing website fo
 VETROMIR. It does not contain the game source code, installers or release files.
 
 - Website: https://srdjankotarlic.github.io/vetromir-sivi/
-- Download 7.21 free: https://github.com/srdjankotarlic/vetromir-sivi-source/releases/tag/v7.21
+- Download 7.25 free: https://github.com/srdjankotarlic/vetromir-sivi-source/releases/tag/v7.25
 - Platform: macOS 13+, Apple Silicon
 - Languages: English and Serbian
 - Price: Free
